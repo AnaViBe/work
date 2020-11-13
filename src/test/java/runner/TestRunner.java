@@ -14,8 +14,7 @@ import java.util.logging.Logger;
 @CucumberOptions(
         features = "src/test/java/features/",
         glue = {"seleniumgluecode"},
-        plugin = {"json:test/report/cucumber_report.json"},
-        snippets = SnippetType.CAMELCASE,
+        plugin = {"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:resources/cucumber-reports/report.html"},
         tags = {"~@ignore"}
 )
 
@@ -30,15 +29,6 @@ public class TestRunner {
 
     @AfterClass
     public static void teardown(){
-        try {
-            LOGGER.log(Level.INFO, "Generating report...");
-            String[] cmd = {"cmd.exe", "/c", "npm run report"};
-            Runtime.getRuntime().exec(cmd);
-            LOGGER.log(Level.INFO, "Report successfully generated!");
-        }catch (Exception ex){
-            LOGGER.log(Level.WARNING, "The report could not be generated.");
-            ex.printStackTrace();
-        }
+        LOGGER.log(Level.INFO, "Test execution finish...");
     }
-
 }

@@ -29,26 +29,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/features" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test\java\features" />
+      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test\resources" />
+      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test\java" />
+      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo" />
+      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="seleniumgluecode" />
       <recent name="seleniumGlueCode" />
       <recent name="utils" />
       <recent name="libraries" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test\resources" />
-      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test\java\features" />
-      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test\java" />
-      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo" />
-      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ana.vidal\IdeaProjects\PruebaQATiendeo\src\test" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TestRunner">
@@ -117,42 +118,66 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1976" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605119734399" />
-    <state width="1892" height="323" key="GridCell.Tab.0.bottom" timestamp="1605169722072">
+    <state x="2074" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605198517728">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169722072" />
-    <state width="1892" height="323" key="GridCell.Tab.0.center" timestamp="1605169722071">
+    <state x="2074" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605198517728" />
+    <state x="2081" y="230" key="#xdebugger.evaluate" timestamp="1605202422111">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169722071" />
-    <state width="1892" height="323" key="GridCell.Tab.0.left" timestamp="1605169722071">
+    <state x="2081" y="230" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605202422111" />
+    <state width="455" height="466" key="DebuggerActiveHint" timestamp="1605183643309">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169722071" />
-    <state width="1892" height="323" key="GridCell.Tab.0.right" timestamp="1605169722072">
+    <state width="455" height="466" key="DebuggerActiveHint/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605183643309" />
+    <state x="2513" y="246" key="FileChooserDialogImpl" timestamp="1605173801824">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169722072" />
-    <state width="1892" height="323" key="GridCell.Tab.1.bottom" timestamp="1605169724509">
+    <state x="2513" y="246" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605173801824" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1605255458242">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169724509" />
-    <state width="1892" height="323" key="GridCell.Tab.1.center" timestamp="1605169724508">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605255458242" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1605255458241">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169724508" />
-    <state width="1892" height="323" key="GridCell.Tab.1.left" timestamp="1605169724508">
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605255458241" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1605255458241">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169724508" />
-    <state width="1892" height="323" key="GridCell.Tab.1.right" timestamp="1605169724509">
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605255458241" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1605255458241">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state width="1892" height="323" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605169724509" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605255458241" />
+    <state width="1877" height="175" key="GridCell.Tab.1.bottom" timestamp="1605207275581">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605207275581" />
+    <state width="1877" height="175" key="GridCell.Tab.1.center" timestamp="1605207275581">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605207275581" />
+    <state width="1877" height="175" key="GridCell.Tab.1.left" timestamp="1605207275581">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605207275581" />
+    <state width="1877" height="175" key="GridCell.Tab.1.right" timestamp="1605207275581">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605207275581" />
     <state x="1856" y="178" key="Maven.ArtifactSearchDialog" timestamp="1605115290202">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1856" y="178" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605115290202" />
+    <state x="1993" y="225" key="NewModule_or_Project.wizard" timestamp="1605173817509">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1993" y="225" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605173817509" />
+    <state x="2078" y="450" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1605204938549">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2078" y="450" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605204938549" />
     <state x="2068" y="154" key="refactoring.ChangeSignatureDialog" timestamp="1605172553785">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
@@ -161,5 +186,13 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605116420096" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.getTitle()" />
+        <watch expression="this.driver.getCurrentUrl()" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
